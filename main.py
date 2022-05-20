@@ -9,9 +9,6 @@
 #Ouput: Year, Name, Gender, Count
 #Sources: Murach's Python Programming 2nd Addition, GitHub, Quora, Stack Overflow,
 #W3 Schools, Week 7 Content, Week 7 Zoom Class.
-#Peter Jungers' code helped me figure out my loop iteration, and how to
-#join the Data in the query instead of pulling it from all_data. The formatting
-#of the output with the character spacing for each attribute was his
 
 #Main Module/User Tier
 
