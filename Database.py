@@ -25,7 +25,7 @@ class Database:
                 + ';DATABASE=' + database
                 + ';UID=' + username + ';PWD=' + password
             )
-    #SQL Query method that retrieves the data from the database and returning
+    #SQL Query method that retrieves the data from the database and returns
     #it to Names
     @classmethod
     def readNames(cls, year, gender):
